@@ -2563,7 +2563,7 @@ input, select, textarea {
 		}
 
 			.features li:nth-child(1) {
-				background-color: rgba(219, 112, 147, 0.9),;
+				background-color: rgba(219, 112, 147, 0.9);
 			}
 
 			.features li:nth-child(2) {
@@ -2985,7 +2985,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
-				color: #db7093;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
