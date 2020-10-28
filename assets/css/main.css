@@ -2563,31 +2563,31 @@ input, select, textarea {
 		}
 
 			.features li:nth-child(1) {
-				background-color: rgba(219, 112, 147, 0.5),;
+				background-color: rgba(219, 112, 147, 0.9),;
 			}
 
 			.features li:nth-child(2) {
-				background-color: rgba(219, 112, 147, 0.2);
+				background-color: rgba(219, 112, 147, 0.8);
 			}
 
 			.features li:nth-child(3) {
-				background-color: rgba(219, 112, 147, 0.6);
+				background-color: rgba(219, 112, 147, 0.8);
 			}
 
 			.features li:nth-child(4) {
-				background-color: rgba(219, 112, 147, 0.4);
+				background-color: rgba(219, 112, 147, 0.9);
 			}
 
 			.features li:nth-child(5) {
-				background-color: rgba(219, 112, 147, 0.7);
+				background-color: rgba(219, 112, 147, 0.9);
 			}
 
 			.features li:nth-child(6) {
-				background-color: rgba(219, 112, 147, 0.3);
+				background-color: rgba(219, 112, 147, 0.8);
 			}
 
 			.features li:nth-child(7) {
-				background-color: rgba(219, 112, 147, 0.5);
+				background-color: rgba(219, 112, 147, 0.8);
 			}
 
 			.features li:nth-child(8) {
@@ -2595,11 +2595,11 @@ input, select, textarea {
 			}
 
 			.features li:nth-child(9) {
-				background-color: rgba(219, 112, 147, 0.1),;
+				background-color: rgba(219, 112, 147, 0.9),;
 			}
 
 			.features li:nth-child(10) {
-				background-color: rgba(219, 112, 147, 0.2);
+				background-color: rgba(219, 112, 147, 0.8);
 			}
 
 			.features li:before {
@@ -2985,7 +2985,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
-				color: #ffffff;
+				color: #db7093;
 			}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
