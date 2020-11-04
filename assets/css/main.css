@@ -2981,7 +2981,7 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			background-color: #ffb6c1;
-			color: #d3d4e4;
+			color: #ffffff;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3013,7 +3013,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
@@ -3039,7 +3039,7 @@ input, select, textarea {
 
 			.wrapper.style3 input[type="checkbox"] + label,
 			.wrapper.style3 input[type="radio"] + label {
-				color: #d3d4e4;
+				color: #ffffff;
 			}
 
 				.wrapper.style3 input[type="checkbox"] + label:before,
