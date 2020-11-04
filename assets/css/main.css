@@ -2703,43 +2703,43 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.8);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.7);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.8);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.7);
 		}
 
 		.spotlight:nth-child(5) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.8);
 		}
 
 		.spotlight:nth-child(6) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.7);
 		}
 
 		.spotlight:nth-child(7) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.8);
 		}
 
 		.spotlight:nth-child(8) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.7);
 		}
 
 		.spotlight:nth-child(9) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.8);
 		}
 
 		.spotlight:nth-child(10) {
-			background-color: #a020f0;
+			background-color: rgba(160, 32, 240, 0.7);
 		}
 
 		@media screen and (max-width: 1280px) {
