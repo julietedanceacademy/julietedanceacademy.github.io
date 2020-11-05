@@ -3767,7 +3767,8 @@ input, select, textarea {
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			width: 100%;
+			text-align: center;
 		}
 
 			#cta .inner header p {
